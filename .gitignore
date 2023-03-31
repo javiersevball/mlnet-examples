@@ -1,1 +1,4 @@
 .vscode/
+**/BinaryClassificationApp/bin
+**/BinaryClassificationApp/obj
+**/BinaryClassificationApp/Model.mlnet
